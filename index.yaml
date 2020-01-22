@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-22T17:29:04.252202062+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 36976fcdc6ff8249e07b49a1f984b69680b40b65e3738e0310ae201199085e8e
+    name: my-app
+    urls:
+    - https://chaurov.github.io/helm-example/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-22T17:29:04.251789517+02:00"
